@@ -22,3 +22,4 @@ tablib==3.5.0  # Tablibning to'g'ri versiyasi
 tomli==2.0.2
 typing_extensions==4.8.0
 whitenoise==6.7.0
+psycopg2-binary==2.9.6  # PostgreSQL uchun drayver
