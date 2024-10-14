@@ -25,3 +25,4 @@ whitenoise==6.7.0
 psycopg2-binary==2.9.6  # PostgreSQL uchun drayver
 gunicorn
 python-dotenv
+dj-database-url
